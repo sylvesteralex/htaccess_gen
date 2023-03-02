@@ -1,0 +1,3 @@
+<files xmlrpc.php>
+	Require all denied
+</files>
